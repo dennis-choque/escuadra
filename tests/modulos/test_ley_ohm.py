@@ -4,7 +4,7 @@ Tests unitarios para las funciones de cálculo de la Ley de Ohm.
 
 import pytest
 
-from escuadra.modulos.electrica.herramienta_ley_ohm import (
+from chuspacalc.modulos.electrica.herramienta_ley_ohm import (
     calcular_corriente,
     calcular_potencia,
     calcular_resistencia,
